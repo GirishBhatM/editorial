@@ -1,1 +1,1 @@
-# editorial
+Sample spring bean injection
